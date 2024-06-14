@@ -1,2 +1,2 @@
 # Bytewise-MERN-Fellowship
-The Bytewise-MERN-Fellowship repository contains resources, projects, and learning materials for participants in the Bytewise MERN Fellowship program, focused on mastering the MERN (MongoDB, Express.js, React, Node.js) stack.
+This repository is a comprehensive educational resource designed to guide participants through the Bytewise MERN (MongoDB, Express.js, React, Node.js) Fellowship program. This program is structured to provide hands-on learning and practical experience in full-stack web development using the MERN stack.
