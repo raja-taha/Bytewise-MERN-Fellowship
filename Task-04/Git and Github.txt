@@ -1,0 +1,6 @@
+1. Made a repository named "Bytewise-MERN-Fellowship" and modified the readme.md file to tract the task status.
+2. Cloned the repository to local machine and completed the tasks.
+3. Modified the readme.md file and updated the status of the tasks.
+4. Committed and pushed the repository to the GitHub repository.
+
+Link: https://github.com/raja-taha/Bytewise-MERN-Fellowship

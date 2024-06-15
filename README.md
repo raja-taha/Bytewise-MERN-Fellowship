@@ -9,4 +9,4 @@ This repository is dedicated to housing the tasks assigned to me as part of the 
 | Task-01     | Week-01 (Day-01)    | Basics of HTML                        | Completed | [See Task](./Task-01) |
 | Task-02     | Week-01 (Day-02+03) | CSS Basics and Styling Best Practices | Pending   | [See Task](./Task-02) |
 | Task-03     | Week-01 (Day-04)    | CSS Properties                        | Pending   | [See Task](./Task-03) |
-| Task-04     | Week-01 (Day-05)    | Basics of Git and GitHub              | Pending   | [See Task](./Task-04) |
+| Task-04     | Week-01 (Day-05)    | Basics of Git and GitHub              | Completed | [See Task](./Task-04) |
