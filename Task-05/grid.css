@@ -1,0 +1,140 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.intro {
+  position: relative;
+  padding: 4em 2em;
+  text-align: center;
+  height: 250px;
+  background: url("Assets-Grid/bg-image.jpeg") no-repeat center center/cover;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.intro p {
+  font-size: 1.4em;
+  z-index: 1;
+  color: white;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.facts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas:
+    "facts facts facts"
+    "fact1 fact1 fact2"
+    "fact3 fact4 fact4"
+    "fact5 fact5 fact5";
+  gap: 1em;
+  padding: 2em;
+}
+
+.fact-item {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1em;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.fact-item img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.fact-item h2 {
+  font-size: 2em;
+  margin: 0.5em 0;
+}
+
+.fact-item h3 {
+  font-size: 1.5em;
+  margin: 0.5em 0;
+}
+
+.fact-item p {
+  color: #666;
+  font-size: 1em;
+}
+
+.fact-item:nth-of-type(1) {
+  background-color: #333;
+  color: white;
+  grid-area: facts;
+}
+
+.fact-item:nth-of-type(2) {
+  grid-area: fact1;
+}
+
+.fact-item:nth-of-type(3) {
+  grid-area: fact2;
+}
+
+.fact-item:nth-of-type(4) {
+  grid-area: fact3;
+}
+
+.fact-item:nth-of-type(5) {
+  grid-area: fact4;
+}
+
+.fact-item:nth-of-type(6) {
+  grid-area: fact5;
+}
+
+@media screen and (max-width: 768px) {
+  .facts-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-areas:
+      "facts"
+      "fact1"
+      "fact2"
+      "fact3"
+      "fact4"
+      "fact5";
+  }
+}
+
+@media screen and (min-width: 786px) and (max-width: 1100px) {
+  .facts-grid {
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas:
+      "facts facts"
+      "fact1 fact2"
+      "fact3 fact5"
+      "fact4 fact4";
+  }
+}
