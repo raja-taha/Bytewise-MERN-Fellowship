@@ -19,3 +19,7 @@ Build a portfolio website based on the assets and requirements provided in the c
 This is a great opportunity to showcase your skills and create something you can use in your professional journey!
 
 Happy coding!
+
+Ok if this is premium you can try these free challenges - try to make some landing page!
+
+https://www.frontendmentor.io/challenges?difficulty=1%2C2&languages=CSS&type=free%2Cfree-plus
