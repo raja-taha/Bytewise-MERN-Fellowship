@@ -11,5 +11,5 @@ This repository is dedicated to housing the tasks assigned to me as part of the 
 | Task-03     | Week-01 (Day-04)    | CSS Properties                        | Completed | [See Task](./Task-03) |
 | Task-04     | Week-01 (Day-05)    | Basics of Git and GitHub              | Completed | [See Task](./Task-04) |
 | Task-05     | Week-02 (Day-01)    | Mastering CSS Grid and Flexbox        | Completed | [See Task](./Task-05) |
-| Task-06     | Week-02 (Day-02)    | Creating a Responsive Website         | Pending   | [See Task](./Task-06) |
+| Task-06     | Week-02 (Day-02)    | Creating a Responsive Website         | Completed | [See Task](./Task-06) |
 | Task-07     | Week-02 (Day-03)    | Portfolio Website                     | Pending   | [See Task](./Task-07) |
