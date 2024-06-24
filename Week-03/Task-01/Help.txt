@@ -1,0 +1,89 @@
+Variables:
+$primary-color: #272727;
+
+body {
+    background-color: $primary-color;
+}
+
+Maps:
+$font-weights: (
+    "regular": 400,
+    "medium": 500,
+    "bold": 700
+);
+
+body {
+    font-weight: map-get($font-weights, bold)
+}
+
+Nesting:
+.main {
+    width: 80%;
+    
+    #{&}__para {
+        font-weight: map-get($font-weights, bold );
+        color: $text-color;
+
+        &:hover{
+            color: blue;
+        }
+    }
+}
+
+Partials:
+@import './resets';
+@import './variables';
+
+Functions:
+@function weight($weight-name) {
+    @return map-get($font-weights, $weight-name);
+}
+
+body {
+    background-color: $primary-color;
+    font-weight: weight(bold);
+}
+
+Mixins Example 1:
+@mixin flexCenter ($direction) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: $direction;
+}
+@include flexCenter(row);
+
+Mixins Example 2:
+@mixin theme($light-theme: true) {
+    @if $light-theme {
+        background: lighten($primary-color, 100%);
+        color: darken($text-color, 100%);
+    }
+}
+.light {
+    @include theme($light-theme: true);
+}
+
+Mixins Example 3:
+@mixin mobile {
+    @media (max-width: $mobile) {
+        @content;
+    }
+}
+@include mobile {
+    @include flexCenter(column);
+}
+
+Extend:
+#{&}__para2 {
+    @extend .main__para1;
+    &:hover{
+        color: $accent-color;
+    }
+}
+
+Operations:
+width: 100% - 20%;
+
+Documentation:
+https://sass-lang.com/documentation/
