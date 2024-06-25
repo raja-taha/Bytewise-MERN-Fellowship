@@ -14,3 +14,4 @@ This repository is dedicated to housing the tasks assigned to me as part of the 
 | Task-06     | Week-02 (Day-02)    | Creating a Responsive Website         | Completed | [See Task](./Week-02/Task-02) |
 | Task-07     | Week-02 (Day-03)    | Landing Page Website                  | Completed | [See Task](./Week-02/Task-03) |
 | Task-08     | Week-03 (Day-01)    | Learn SASS                            | Completed | [See Task](./Week-03/Task-01) |
+| Task-09     | Week-03 (Day-02+03) | Learn Tailwind CSS                    | Pending   | [See Task](./Week-03/Task-02) |
