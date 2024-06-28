@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/main.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <body class="bg-gray-100 text-gray-900">
+      <nav class="bg-white shadow-md fixed w-full z-10">
+        <div class="container mx-auto px-4">
+          <div class="flex justify-between items-center py-4">
+            <div class="text-xl font-bold">My Portfolio</div>
+            <div class="hidden space-x-4 md:flex">
+              <a href="#about" class="hover:text-blue-500">About</a>
+              <a href="#projects" class="hover:text-blue-500">Projects</a>
+              <a href="#skills" class="hover:text-blue-500">Skills</a>
+              <a href="#contact" class="hover:text-blue-500">Contact</a>
+            </div>
+            <!-- Hamburger Icon -->
+            <button
+              id="menu-btn"
+              class="block hamburger md:hidden focus:outline-none"
+            >
+              <span class="hamburger-top"></span>
+              <span class="hamburger-middle"></span>
+              <span class="hamburger-bottom"></span>
+            </button>
+          </div>
+
+          <!-- Mobile Menu -->
+          <div class="md:hidden">
+            <div
+              id="menu"
+              class="absolute flex-col items-center self-end hidden py-8 mt-10 space-y-6 font-bold bg-white sm:w-auto sm:self-center left-6 right-6 drop-shadow-md"
+            >
+              <a href="#about" class="hover:text-blue-500">About</a>
+              <a href="#projects" class="hover:text-blue-500">Projects</a>
+              <a href="#skills" class="hover:text-blue-500">Skills</a>
+              <a href="#contact" class="hover:text-blue-500">Contact</a>
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      <section
+        id="home"
+        class="h-screen flex items-center justify-center bg-gray-200"
+      >
+        <div class="text-center">
+          <h1 class="text-4xl md:text-6xl font-bold">
+            Welcome to My Portfolio
+          </h1>
+          <p class="text-xl mt-4">I'm a passionate developer.</p>
+        </div>
+      </section>
+
+      <section id="about" class="container mx-auto px-4 py-20">
+        <h2 class="text-3xl font-bold mb-6">About Me</h2>
+        <p class="text-lg">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </p>
+      </section>
+
+      <section id="projects" class="container mx-auto px-4 py-20">
+        <h2 class="text-3xl font-bold mb-6">Projects</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Project cards go here -->
+        </div>
+      </section>
+
+      <section id="skills" class="container mx-auto px-4 py-20">
+        <h2 class="text-3xl font-bold mb-6">Skills</h2>
+        <ul class="list-disc pl-5">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Tailwind CSS</li>
+          <li>React</li>
+          <!-- Add more skills as needed -->
+        </ul>
+      </section>
+
+      <section id="contact" class="container mx-auto px-4 py-20">
+        <h2 class="text-3xl font-bold mb-6">Contact</h2>
+        <form action="#" method="POST" class="space-y-4">
+          <div>
+            <label for="name" class="block text-sm font-medium">Name</label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md"
+            />
+          </div>
+          <div>
+            <label for="email" class="block text-sm font-medium">Email</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md"
+            />
+          </div>
+          <div>
+            <label for="message" class="block text-sm font-medium"
+              >Message</label
+            >
+            <textarea
+              id="message"
+              name="message"
+              class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md"
+            ></textarea>
+          </div>
+          <button
+            type="submit"
+            class="bg-blue-500 text-white px-4 py-2 rounded-md"
+          >
+            Send
+          </button>
+        </form>
+      </section>
+
+      <footer class="bg-gray-800 text-white text-center py-4">
+        &copy; 2024 My Portfolio
+      </footer>
+
+      <script src="js/script.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/16.1.3/smooth-scroll.polyfills.min.js"></script>
+      <script>
+        var scroll = new SmoothScroll('a[href*="#"]', {
+          speed: 800,
+        });
+      </script>
+    </body>
+  </body>
+</html>
