@@ -16,4 +16,4 @@ This repository is dedicated to housing the tasks assigned to me as part of the 
 | Task-08     | Week-03 (Day-01)    | Learn SASS                                   | Completed | [See Task](./Week-03/Task-01) |
 | Task-09     | Week-03 (Day-02+03) | Learn Tailwind CSS                           | Completed | [See Task](./Week-03/Task-02) |
 | Task-10     | Week-03 (Day-04+05) | Practice Project (Tailwind CSS + Responsive) | Completed | [See Task](./Week-03/Task-03) |
-| Task-11     | Week-04 (Day-01)    | Learn JavaScript Fundamentals                | Pending   | [See Task](./Week-04/Task-01) |
+| Task-11     | Week-04 (Day-01)    | Learn JavaScript Fundamentals                | Completed | [See Task](./Week-04/Task-01) |
