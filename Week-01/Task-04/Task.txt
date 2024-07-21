@@ -1,0 +1,20 @@
+🔔Week 01 (Day-5) : Basics of Git and GitHub
+
+⭕ Hey Fellows,
+
+I hope you’re all enjoying the journey so far! Today, we’ll shift our focus to version control, specifically Git and GitHub , which are crucial tools for collaborative development.
+
+🚩 Tasks:
+- Watch the following video to understand the basics of Git and GitHub: https://youtu.be/x0EYpi38Yp4?si=s4tsryqSNxhP8Pit
+- How to upload your tasks on repository:
+- https://youtu.be/eGaImwD8fPQ?si=-4vQNoTObZFvj_8K
+
+📖 What you'll learn :
+* What Git is and why it's important
+* Basic Git commands
+* How to use GitHub for version control and collaboration
+
+📝 Submission:
+Set up a GitHub repository and upload the HTML and CSS files you’ve worked on so far. Share the link to your repository in the group. The deadline for submission is this weekend for all the tasks assigned this week.
+
+Happy coding!

@@ -1,0 +1,23 @@
+🔔Week 06 (Day 1): Learn Express
+
+⭕ Hey Fellows,
+
+Welcome to Week 06! This week, we’re diving deeper into backend development by learning Express, a powerful web application framework for Node.js. Express will help you build robust and scalable web applications with ease.
+
+🚩 Tasks for the Day:
+
+- Watch the following video to learn Express: (https://youtu.be/-0exw-9YJBo?si=FjlHA58MPQ2aa4YR)
+
+📖 What you'll learn:
+- What Express is and why it’s useful
+- Setting up an Express server
+- Creating routes and handling HTTP requests
+- Middleware and its uses
+- Building RESTful APIs with Express
+
+📝 Submission:
+Follow along with the tutorial and start building your own Express server. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Understanding Express is crucial for building efficient and scalable backend services.
+
+Happy coding!

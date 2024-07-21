@@ -1,0 +1,7 @@
+2024-07-12	08:45:03	f1e4f4c2-b7a1-4c76-a75d-d072c0f49a03	/new-page.html	GET
+2024-07-12	08:45:03	9b3a63c9-03ab-41a3-bcd6-fe1b6f941e7b	/css/style.css	GET
+2024-07-12	08:45:03	2834c459-031a-4887-96de-5d6093893972	/images/img1.jpg	GET
+2024-07-12	08:45:41	e417ecc4-4d44-4d19-933f-bd84e543d429	/new-page.html	GET
+2024-07-12	08:46:04	b47d5b03-01da-41bc-b88b-8402ec286af9	/new-page.html	GET
+2024-07-12	08:46:04	a6dab64c-0fa6-4c3a-b0db-d5fa12cb8176	/css/style.css	GET
+2024-07-12	08:46:04	378ef489-c95d-4c4e-9a59-6d69e61b75c8	/images/img1.jpg	GET

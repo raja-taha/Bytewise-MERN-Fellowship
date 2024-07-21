@@ -1,0 +1,21 @@
+🔔Week 05 (Day 5): Practice Project
+
+⭕ Hey Fellows,
+
+As we wrap up Week 05, it’s time to put your skills to the test with a practice project. This will be an excellent opportunity to apply everything you’ve learned so far in a practical, hands-on way.
+
+🚩 Tasks for the Day:
+
+- Choose a practice project from the following link: https://www.frontendmentor.io/challenges?difficulty=2&sort=difficulty%7Casc
+
+📖 What you'll do:
+- Select a project that matches your current skill level.
+- Apply the concepts and techniques you've learned from HTML, CSS, JavaScript, React, and Node.js.
+- Focus on building a functional, responsive, and well-designed application.
+
+📝 Submission:
+Complete the project and ensure it is fully functional. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+This practice project is a great way to solidify your understanding and showcase your abilities. 
+
+Happy coding!

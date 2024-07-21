@@ -1,0 +1,20 @@
+🔔Week 06 (Day 5): Build a Goal App using the MERN Stack
+
+⭕ Hey Fellows,
+
+Today, we’ll be applying everything we’ve learned so far by building a full-fledged Goal App using the MERN stack (MongoDB, Express, React, and Node.js). This project will give you hands-on experience with integrating all these technologies to create a complete web application.
+
+🚩 Tasks for the Day:
+
+- Build a Goal App using the MERN stack. (Follow prev playlist link)
+
+📖 What you'll do:
+- Set up a MongoDB database to store goals.
+- Create an Express server to handle API requests.
+- Build RESTful API endpoints for CRUD operations (Create, Read, Update, Delete) on goals.
+- Develop a React frontend to interact with the backend and manage goals.
+
+📝 Submission:
+Complete the Goal App project and ensure it is fully functional. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Happy coding!

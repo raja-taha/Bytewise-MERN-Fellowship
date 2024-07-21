@@ -1,0 +1,23 @@
+🔔Week 01 (Day-4): CSS Properties
+
+⭕ Hey Fellows,
+
+I hope you're all making great progress! This task is to dive deeper into CSS by exploring various CSS properties.
+
+🚩 Tasks:
+- Watch the following video to understand CSS properties: 
+- https://youtu.be/oAkPcpzjDBI?si=ftFP_FHRMIn7OSkg
+
+📖 What you'll learn:
+- Different types of CSS properties
+- How to use CSS properties to style elements
+- Practical examples of CSS properties in action
+
+📝 Submission:
+After watching the video, enhance your styled HTML page from Day 2+3 by applying additional CSS properties covered in the video. 
+
+Save your work in the folder. The deadline for submission is this weekend for all the tasks assigned this week.
+
+Let's keep building those skills!
+
+Happy coding! 🙌

@@ -1,0 +1,275 @@
+@import "./resets";
+@import "./variables";
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: $primary-color;
+  display: flex;
+  justify-content: start;
+}
+
+li a {
+  display: block;
+  color: $secondary-color;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $primary-color-dark;
+  }
+}
+
+.hero {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: url("../images/image1.jpeg") no-repeat center center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $secondary-color;
+  text-align: center;
+  overflow: hidden;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+
+  h1 {
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  p {
+    font-size: 1.5rem;
+    margin: 20px 0;
+  }
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: $primary-color;
+  color: $secondary-color;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $primary-color-dark;
+  }
+}
+
+.introduction {
+  padding: 50px;
+  text-align: center;
+  background-color: $secondary-color;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 80%;
+  border-radius: 10px;
+
+  p {
+    font-size: 1.2rem;
+    color: $accent-color;
+    line-height: 1.6;
+    margin-bottom: 0;
+  }
+}
+
+.features {
+  padding: 50px;
+  text-align: center;
+  background-color: $primary-color;
+  margin: 20px auto;
+  max-width: 80%;
+  border-radius: 10px;
+  color: $secondary-color;
+
+  h2 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+}
+
+.features-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.feature {
+  width: 30%;
+  margin: 10px;
+  padding: 20px;
+  background-color: $primary-color-dark;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+}
+
+.footer {
+  background-color: $primary-color;
+  color: $secondary-color;
+  padding: 20px;
+}
+
+.footer-container {
+  max-width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-section {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+
+  h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+  }
+
+  p {
+    margin: 10px 0;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+.footer-input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 300px;
+}
+
+.footer-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: $primary-color;
+  border: 1px solid $secondary-color;
+  color: $secondary-color;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $primary-color-dark;
+  }
+}
+
+@media only screen and (max-width: $tablet) {
+  .hero {
+    h1 {
+      font-size: 3rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+      margin: 20px 0;
+    }
+  }
+
+  .feature {
+    width: 45%;
+
+    h3 {
+      font-size: 1.5rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+  }
+}
+
+@media only screen and (max-width: $mobile) {
+  .hero {
+    h1 {
+      font-size: 2rem;
+    }
+
+    p {
+      font-size: 1rem;
+      margin: 20px 0;
+    }
+  }
+
+  .feature {
+    width: 100%;
+
+    h3 {
+      font-size: 1.8rem;
+    }
+
+    p {
+      font-size: 1.2rem;
+    }
+  }
+
+  .footer-container {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .footer-section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h2 {
+      font-size: 1.7rem;
+      text-align: center;
+    }
+
+    form {
+      width: 100%;
+      display: flex;
+      align-items: center;
+    }
+  }
+
+  .footer-input {
+    width: 100%;
+    margin: 20px 0;
+  }
+}

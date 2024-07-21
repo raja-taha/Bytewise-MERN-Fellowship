@@ -1,0 +1,21 @@
+🔔Week 06 (Day 4): MongoDB Connection and Interacting with REST API
+
+⭕ Hey Fellows,
+
+I hope you’re all progressing well with Express! Today, we’ll be focusing on integrating MongoDB with your Express applications and interacting with REST APIs. This will enable you to create dynamic, data-driven web applications.
+
+🚩 Tasks for the Day:
+
+- Watch the following playlist to learn about MongoDB connection and interacting with REST APIs: (https://youtube.com/playlist?list=PLTMNWTDdd5z_CtvbzG6r1f4hjnCaphPTV)
+
+📖 What you'll learn:
+- Setting up a MongoDB database
+- Connecting your Express application to MongoDB
+- Creating and managing collections
+- Performing CRUD operations (Create, Read, Update, Delete)
+- Building and interacting with REST APIs using Express and MongoDB
+
+📝 Submission:
+Follow along with the tutorial and build a small project that integrates MongoDB with your Express server and includes REST API endpoints. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Happy coding!

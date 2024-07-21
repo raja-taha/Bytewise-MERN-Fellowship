@@ -1,0 +1,22 @@
+🔔Week 04 (Day 4): Learn JavaScript Functions
+
+⭕ Hey Fellows,
+
+I hope you're all progressing well with asynchronous JavaScript! Today, we’ll focus on JavaScript functions, which are crucial for making your web applications interactive.
+
+🚩 Tasks for the Day:
+
+* Watch the following video to learn about JavaScript functions: (https://youtu.be/FOD408a0EzU?si=AyLC-fHDobDiZEzo)
+
+📖 What you'll learn:
+* What JavaScript functions are and how they work
+* Different types of functions (e.g., regular functions, arrow functions)
+* How to create and use functions in your web applications
+* Practical examples of using functions to structure and simplify your code
+
+📝 Submission:
+Create a small project or modify an existing one by incorporating JavaScript functions learned from the video. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Understanding JavaScript functions will help you build more efficient and organized web applications. Let’s dive in!
+
+Happy coding!

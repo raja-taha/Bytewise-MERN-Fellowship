@@ -1,0 +1,54 @@
+Methods for adding: Inline, Internal, External
+
+Selectors: class, id, tag, [type="text"]
+
+Colors: Names, HTML5 Colors, Hexadecimal, RGB
+
+Fonts: family, size, weight
+
+line-height: 3px
+
+Box Model:
+
+margin: top, right, bottom, left
+
+padding: top, right, bottom, left
+
+border: top, right, bottom, left
+
+border-top-style: dotted
+
+text-decoration: none
+
+letter-spacing: 0rem
+
+word-spacing: 0rem
+
+text-align: center
+
+States: active, hover, visited
+
+list-style-image: url(image)
+
+display: inline-block
+
+float: left
+
+box-sizing: border-box
+
+Positioning: static, relative, absolute, fixed, initial, inherit
+
+background-position, background-repeat
+
+pseudo classes
+
+overflow
+
+Styling best practices:
+
+1. Box Model: Content, Padding, Border, Margin
+2. Parent Child Relationship
+3. Float (Old)
+4. Flexbox Model
+5. Justify Content
+6. Grid

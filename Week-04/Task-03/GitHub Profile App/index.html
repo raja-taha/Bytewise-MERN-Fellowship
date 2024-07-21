@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub Profile App</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-purple-900 text-purple-900 font-sans h-screen">
+    <div class="text-white text-center text-4xl font-bold pt-[2rem]">
+      GitHub Profile App
+    </div>
+    <div class="flex flex-col justify-center items-center">
+      <form class="my-8 w-2/3" id="form" onsubmit="return formSubmit()">
+        <input
+          class="w-full p-2 rounded-md border-none text-base"
+          type="text"
+          id="search"
+          autofocus
+          placeholder="Search a github user"
+        />
+      </form>
+      <main id="main" class="w-[90%] flex justify-center items-center"></main>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

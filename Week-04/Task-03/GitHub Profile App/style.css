@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  margin-bottom: 2rem;
+  width: 30%;
+}
+
+/* #search {
+  width: 100%;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+}
+
+#main {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #5b21b6;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.card img.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  object-fit: cover;
+}
+
+.user-info {
+  margin-left: 2rem;
+}
+
+.user-info h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.user-info p {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+  color: #d1d5db;
+}
+
+.info {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+
+.info li {
+  font-size: 1rem;
+}
+
+.info li strong {
+  display: block;
+  font-size: 1.1rem;
+} */
+
+#repos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+#repos .repo {
+  background-color: #4c1d95;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.3s;
+}
+
+#repos .repo:hover {
+  background-color: #6d28d9;
+}

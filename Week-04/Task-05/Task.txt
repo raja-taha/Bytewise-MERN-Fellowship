@@ -1,0 +1,22 @@
+🔔Week 04 (Day 5): Build a TODO - JS App
+
+⭕ Hey Fellows,
+
+I hope you're all enjoying learning about JavaScript functions! Today, we’ll put everything we've learned into practice by building a TODO app using JavaScript.
+
+🚩 Tasks for the Day:
+
+* Watch the following video to learn how to build a TODO app: (https://youtu.be/y71CdVq5SvI)
+
+📖 What you'll learn:
+* How to create a simple and functional TODO app using JavaScript
+* Applying DOM manipulation techniques to manage tasks
+* Using JavaScript functions to add, remove, and mark tasks as complete
+* Best practices for organizing your code
+
+📝 Submission:
+Build your own TODO app following the video tutorial. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+This project is a great way to consolidate your JavaScript skills and create something practical and useful. Let’s get coding!
+
+Happy coding!
