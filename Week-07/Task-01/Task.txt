@@ -1,0 +1,23 @@
+🔔Week 07 (Day 1): JWT Authentication
+
+⭕ Hey Fellows,
+
+Welcome to Week 07!
+
+On day 1 we’re focusing on securing your applications by learning about JWT (JSON Web Token) authentication (https://jwt.io/). Implementing JWT will help you protect your APIs and ensure that only authorized users have access to certain resources.
+
+🚩 Tasks for the Day:
+
+* Watch the following video to learn about JWT Authentication:(https://youtu.be/enopDSs3DRw?si=nr9nAHmoPgnCUY06)
+
+📖 What you'll learn:
+* What JWT is and how it works
+* Setting up JWT in your Express application
+* Creating and signing JWTs
+* Verifying and decoding JWTs
+* Implementing protected routes and middleware for authentication
+
+📝 Submission:
+Follow along with the tutorial and implement JWT authentication in your existing projects. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Happy coding!

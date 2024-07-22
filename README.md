@@ -27,3 +27,4 @@ This repository is dedicated to housing the tasks assigned to me as part of the 
 | Task-19     | Week-06 (Day-01)    | Learn Express                                    | Completed | [See Task](./Week-06/Task-01) |
 | Task-20     | Week-06 (Day-04)    | MongoDB Connection and Interacting with REST API | Completed | [See Task](./Week-06/Task-02) |
 | Task-21     | Week-06 (Day-05)    | Build a Goal App using the MERN Stack            | Completed | [See Task](./Week-06/Task-03) |
+| Task-22     | Week-07 (Day-01)    | JWT Authentication                               | Completed | [See Task](./Week-07/Task-01) |
