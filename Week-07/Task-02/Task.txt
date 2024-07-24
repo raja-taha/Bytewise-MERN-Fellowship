@@ -1,0 +1,22 @@
+🔔Week 07 (Day 2-3): Learn Redux Toolkit
+
+⭕ Hey Fellows,
+
+As we continue through Week 07, it’s time to enhance your state management skills with Redux Toolkit. Redux is a powerful tool for managing application state, and the Redux Toolkit simplifies its usage, making it more efficient and developer-friendly.
+
+🚩 Tasks for the Next Two Days:
+
+- Watch the following video to learn Redux Toolkit: (https://youtu.be/mvfsC66xqj0?si=vqWGBa6N5E9Bw6Qz)
+- (https://youtu.be/dzPFDI5KKfc?si=WY4epsw6hqeatJu5)
+
+📖 What you'll learn:
+- What Redux is and why it’s used
+- Setting up Redux Toolkit in your React application
+- Creating slices and reducers
+- Using Redux Toolkit’s built-in features to manage state
+- Connecting Redux to your React components
+
+📝 Submission:
+Follow along with the tutorial and integrate Redux Toolkit into your existing projects or create a new small project to practice. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Happy coding!
