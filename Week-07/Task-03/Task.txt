@@ -1,0 +1,21 @@
+🔔Week 07 (Day 5): React State Management (Explore Options)
+
+⭕ Hey Fellows,
+
+Today, we’ll be exploring different options for state management in React. Understanding the various state management techniques will help you choose the right approach for different scenarios in your applications.
+
+🚩 Tasks for the Day:
+
+* Watch the following video to explore React state management options: (https://youtu.be/oZZEI23Ri6E?si=k1qRjn6WiLxTGTiJ)
+* https://youtu.be/zpUMRsAO6-Y?si=BN0awpWmVVEpmDCA
+
+📖 What you'll learn:
+* Different state management strategies in React
+* When to use local state, context API, Redux, and other state management libraries
+* Best practices for managing state in React applications
+* Comparing the pros and cons of each approach
+
+📝 Submission:
+Reflect on the different state management options and implement a small project or modify an existing one to use one of the techniques discussed in the video. Save your work in the folder and upload it to your GitHub repository. The deadline for submission is at the end of the week.
+
+Happy coding!
