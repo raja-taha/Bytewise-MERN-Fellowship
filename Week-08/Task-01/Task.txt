@@ -1,0 +1,24 @@
+🔔Week 08 (Day 1-2): Practice Week - Revise and Prepare for MERN Stack Application
+
+⭕ Hey Fellows,
+
+We’ve covered a lot of ground in the past few weeks, and now it’s time to consolidate your knowledge. For the next two days, take this opportunity to revise any concepts or tasks that are not clear.
+
+🚩 Tasks for the Next Two Days:
+
+* Revise: Go over any previous tasks or topics that you found challenging or need more practice with. Rewatch the tutorial videos, redo the exercises, and ensure you have a solid understanding of all the concepts covered so far.
+  
+* Prepare: After revising, start thinking about a complete MERN Stack application you would like to build. This project will be a culmination of everything you’ve learned.
+
+📝 Next Steps:
+* If you feel ready, start building your MERN Stack application. Share your project idea in the group to ensure that it is not repeated more than twice.
+* Be prepared to present your project idea and progress in a session we might have this weekend to discuss the progress so far.
+
+🗓 Reminder:
+The deadline for the complete MERN Stack application will be shared soon, so use this time wisely to clear up any doubts and get ready for the upcoming challenge.
+
+This is your chance to apply everything you’ve learned and showcase your skills. Let’s make the most of this practice week and build something amazing!
+
+Kindly "Acknowledge" this message!
+
+Happy coding!
