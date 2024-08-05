@@ -1,0 +1,23 @@
+🔔Week-9 (Day 1-2): Advanced Topics - Cron Jobs in React
+
+⭕ Hey Fellows,
+
+Welcome to Month Three of our fellowship program! We’re now entering the advanced level where we will be tackling more complex and sophisticated topics.
+
+For the next two days, we will be focusing on cron jobs in React, which will help you automate tasks in your applications.
+
+🚩 Tasks for the Next Two Days:
+
+- Watch: Cron Jobs in React
+- (https://youtu.be/j8BrW1obaiE?si=BVkKYtJeOQcWUQ4D)
+- (https://youtu.be/6gmdFPlkuhQ?si=JnJJHUt9H9eZDXgS)
+- Read: https://javascript.plainenglish.io/how-to-schedule-cron-jobs-in-node-js-897215e2e5d3
+📖 What you'll learn:
+- Understanding what cron jobs are and their use cases
+- How to set up and use cron jobs in React
+- Practical examples of implementing cron jobs to automate tasks in your React applications
+
+📝 Submission:
+After learning about cron jobs, create a small project or enhance an existing one by incorporating cron jobs. Save your work in the folder and upload it to your GitHub repository. 
+
+Happy coding!
