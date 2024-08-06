@@ -1,6 +1,6 @@
 const config = {
-  emailUser: "rajataha062@gmail.com",
-  emailPassword: "psuuzfzepzeymbow",
+  emailUser: process.env.EMAIL,
+  emailPassword: process.env.PASS,
 };
 
 module.exports = config;
