@@ -1,0 +1,23 @@
+🔔Week 09 (Day 3-4): Deployment for Backend and Frontend
+
+⭕ Hey Fellows,
+
+I hope you’re all doing well and progressing smoothly with your projects. For the next two days, we will be focusing on deploying both backend and frontend applications. Deployment is a crucial step to make your projects live and accessible to users.
+
+🚩 Tasks for the Next Two Days:
+
+- *Watch:* Deployment for Backend and Frontend: (https://youtu.be/AslMb_MQzDo?si=pAaza5aAOaFOipGq)
+- Also explore Vercel, Runway, Amazon, Cloudflare and other deployment platforms. Go with the one you like!
+
+📖 What you'll learn:
+- How to deploy your backend (Node.js/Express) applications
+- How to deploy your frontend (React) applications
+- Best practices for deploying full-stack applications
+
+📝 Submission:
+- Deploy your previous projects using the concepts learned from the video.
+- Share the live deployment link of your projects in the submission instance on Google Classroom.
+
+This is a great opportunity to get your projects live and showcase your work to a wider audience. Let’s ensure our applications are accessible and running smoothly on the web.
+
+Happy coding and deploying!

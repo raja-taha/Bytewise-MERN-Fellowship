@@ -33,3 +33,4 @@ This repository is dedicated to housing the tasks assigned to me as part of the 
 | Task-25     | Week-08 (Day-01-02) | Practice Week - Simple Login Application         | Completed | [See Task](./Week-08/Task-01) |
 | Task-26     | Week-08 (Day-03-05) | Practice Week - Social Media Application         | Completed | [See Task](./Week-08/Task-02) |
 | Task-27     | Week-09 (Day-01-02) | Advanced Topics - Cron Jobs in React             | Completed | [See Task](./Week-09/Task-01) |
+| Task-28     | Week-09 (Day-03-04) | Deployment for Backend and Frontend              | Completed | [See Task](./Week-09/Task-02) |
