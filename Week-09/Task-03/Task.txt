@@ -1,0 +1,18 @@
+🔔Week 09 (Day 6): Practice Task - Deploy Your Previous Projects
+
+⭕ Hey Fellows,
+
+Now that you’ve learned how to deploy both backend and frontend applications, it’s time to put that knowledge into practice. Today’s task is all about getting your previous projects live on the web.
+
+🚩 Tasks for the Day:
+
+- Deploy: Take the projects you’ve completed so far and deploy them using the concepts learned in the previous days.
+- Share: Once your projects are live, make sure to share the deployment links in the submission instance on Google Classroom.
+
+📖 What you'll gain:
+- Experience in deploying full-stack applications.
+- A portfolio of live projects to showcase your skills.
+
+This practice task is crucial for preparing your projects for real-world use.
+
+Happy coding and deploying!
