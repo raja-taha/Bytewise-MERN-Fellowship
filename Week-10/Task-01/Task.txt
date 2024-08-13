@@ -1,0 +1,23 @@
+🔔Week 10 (Day 1-2): GraphQL Crash Course
+
+⭕ Hey Fellows,
+
+Welcome to Week 10 ! We’re now entering the second last week of our fellowship, and it’s time to dive into an essential topic that will expand your backend development skills: GraphQL.
+
+🚩 Tasks for the Next Two Days:
+
+- Watch: Learn the fundamentals of GraphQL with this crash course:(https://youtu.be/BcLNfwF04Kw?si=bEyrVHN_HG39msoZ)
+- Practice: After watching the video, try to implement the concepts in a small project or integrate GraphQL into one of your previous projects.
+
+📖 What you'll learn:
+- What GraphQL is and how it differs from REST APIs.
+- How to set up a GraphQL server.
+- Writing queries, mutations, and subscriptions.
+- Integrating GraphQL with frontend applications.
+
+📝 Reminder:
+This is an extra topic that will give you an edge in modern web development. Take these two days to fully grasp the concepts and experiment with them.
+
+We’re nearing the end of our journey, so let’s make these last weeks count!
+
+Happy coding!

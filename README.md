@@ -35,3 +35,4 @@ This repository is dedicated to housing the tasks assigned to me as part of the 
 | Task-27     | Week-09 (Day-01-02) | Advanced Topics - Cron Jobs in React             | Completed | [See Task](./Week-09/Task-01) |
 | Task-28     | Week-09 (Day-03-04) | Deployment for Backend and Frontend              | Completed | [See Task](./Week-09/Task-02) |
 | Task-29     | Week-09 (Day-06)    | Deploy Your Previous Projects                    | Completed | [See Task](./Week-09/Task-03) |
+| Task-30     | Week-10 (Day-01)    | GraphQL Crash Course                             | Completed | [See Task](./Week-10/Task-01) |
