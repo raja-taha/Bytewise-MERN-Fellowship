@@ -1,0 +1,16 @@
+🔔Week 10 (Day 4): Payment Integration
+
+⭕ Hey Fellows,
+
+As we move forward in our advanced topics, today we’ll focus on something crucial for many real-world applications: Payment Integration.
+
+🚩Task for Today:
+
+- Watch: Learn how to integrate payment gateways with your projects using this tutorial:(https://youtu.be/1r-F3FIONl8?si=ygq0Zqx6_et2VZLH)
+- Implement: After watching the video, try to implement payment integration in one of your existing projects or create a small demo project to test your skills.
+
+📝 Deadline: You have one day to complete this task. Make sure to submit your work by the end of the week.
+
+Payment integration is a key feature for many applications, so mastering this will definitely boost your skills!
+
+Happy coding!
